@@ -1,0 +1,114 @@
+.input-group-addon{
+    background-color: white;
+}
+.form-control:focus {
+    border-bottom-color: rgba(0,0,0,.15);
+}
+.bg-faded{
+    background-color: white;
+}
+.fa-search {
+    color: rgba(0,0,0,.15);
+}
+.fa-gift{
+    color: white;
+}
+.fa-arrow-left{
+    color: #999999;
+}
+.fa-arrow-right{
+    color: #999999;
+}
+.fa-th-large{
+    color: #999999;
+}
+.servboton{
+    background-color: transparent;
+}
+.servboton:hover{
+    background-color: black;
+}
+.btn{
+    line-height: 2;
+}
+.jumbotron{
+    background-color: white;
+}
+.carousel-indicators li{
+    background-color: #999999;
+    width: 100% !important;
+    max-width: 5px;
+    height: 5px;
+}
+.carousel-indicators {
+    margin-bottom: -200px;
+}
+.carousel-indicators .active{
+    background-color: yellow;
+}
+.features{
+    margin-top: 300px;
+}
+.iphone{
+    background-color: #cccccc;
+}
+.services{
+    background-color: #cccccc;
+}
+.fa-picture-o{
+    background-color: #cccccc;
+}
+.fa-picture-o:hover{
+    background-color: gold;
+}
+.ourservices p{
+    font-size: smaller;
+}
+.ourservices h3{
+    text-transform: uppercase;
+}
+.picture{
+    background-color: #cccccc;
+    color: white;
+    padding: 6rem 6rem!important;
+}
+.picture:hover{
+    background-color: black;
+    color: #cccccc;
+}
+.fa-user-o{
+    background-color: #cccccc;
+    color: white;
+    font-weight: bold;
+}
+.clientlove p{
+    font-style: italic;
+}
+.logos {
+    background-color: #cccccc;
+    font-weight: bold;
+    color: #999999;
+}
+.logos div{
+    background-color: #cccccc;
+}
+.sendboton{
+    background-color: #5cb3fd;
+    color: white;
+}
+.salir{
+    background-color: #cccccc;
+    color:#999999;
+}
+.formulario input{
+    background-color: #cccccc;
+}
+.formulario textarea{
+    background-color: #cccccc;
+}
+.formulario label{
+    font-weight: bold;
+}
+.footer{
+    background-color: #d0d5d8;
+}
